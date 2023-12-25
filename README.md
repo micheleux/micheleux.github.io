@@ -2,7 +2,7 @@
 
 - [Hugo](https://gohugo.io/)
 - [Hugo Themes > Hallo](https://github.com/EmielH/hallo-hugo)
-- [Emoji Favicons > Satellite](https://favicon.io/emoji-favicons/eye-in-speech-bubble)
+- [Emoji Favicons > Purple Heart](https://favicon.io/emoji-favicons/purple-heart)
 
 ## Build
 
