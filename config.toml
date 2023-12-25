@@ -1,0 +1,33 @@
+baseURL = "https://micheleschell.com/"
+languageCode = "en-us"
+
+title = "Michele Schell.coom"
+
+disableKinds = ["page", "section", "taxonomy"]
+defaultContentLanguage = "en"
+
+theme = "hallo"
+
+[Author]
+    name = "Michele Schell"
+
+[params]
+    description = "Personal landing page for Michele Schell."
+
+    [params.author]
+        name = "Michele Schell"
+
+    [params.colors]
+        background = "#000000"
+        foreground = "#FFFFFF"
+        hover = "#9B4F96"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/micheleschell"
+    [[params.links]]
+        iconset = "fas"
+        icon = "at"
+        title = "E-mail"
+        url = "mailto:micheleuxdesign@gmail.com"
