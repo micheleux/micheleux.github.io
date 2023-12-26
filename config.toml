@@ -1,7 +1,7 @@
 baseURL = "https://micheleschell.com/"
 languageCode = "en-us"
 
-title = "Michele Schell.coom"
+title = "Michele Schell UX Architect"
 
 disableKinds = ["page", "section", "taxonomy"]
 defaultContentLanguage = "en"
